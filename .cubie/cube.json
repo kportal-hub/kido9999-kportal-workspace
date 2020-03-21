@@ -15,6 +15,10 @@
     },
     "result": {
         "javascript": {
+            "path": "default",
+            "scenario": "main.easy",
+            "topic": "1.topic1",
+            "lesson": "1.lesson1",
             "time": 0,
             "type": "javascript",
             "tags": [
@@ -23,18 +27,14 @@
                 "math"
             ],
             "complete": 0,
-            "modified": 0,
+            "modified": 1584769661272,
             "score": {
-                "status": "pending",
+                "status": "passed",
                 "total": 3,
-                "failed": 3,
-                "passed": 0,
-                "point": 0
-            },
-            "path": "default",
-            "scenario": "main#easy",
-            "topic": "1.topic1",
-            "lesson": "1.lesson1"
+                "failed": 0,
+                "passed": 3,
+                "point": 3000
+            }
         }
     },
     "trainers": {
@@ -48,5 +48,6 @@
         "topic": "1.topic1",
         "lesson": "1.lesson1",
         "cube": "javascript"
-    }
+    },
+    "modified": 1584769662149
 }
