@@ -53,7 +53,9 @@
                 "point": 0
             },
             "path": "default",
-            "scenario": "main.easy"
+            "scenario": "main#easy",
+            "topic": "1.topic1",
+            "lesson": "1.lesson1"
         }
     },
     "trainers": {
@@ -65,11 +67,11 @@
         ]
     },
     "current": {
-        "path": "main.easy",
+        "path": "default",
         "scenario": "main#easy",
         "topic": "1.topic1",
-        "lesson": "2.lesson2",
-        "cube": "javascript"
+        "lesson": "1.lesson1",
+        "cube": "intern3303-python"
     },
     "modified": 1584769662149
 }
