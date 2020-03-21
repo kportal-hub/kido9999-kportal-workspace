@@ -32,12 +32,21 @@
                 "point": 0
             },
             "path": "default",
-            "scenario": "main.easy"
+            "scenario": "main#easy",
+            "topic": "1.topic1",
+            "lesson": "1.lesson1"
         }
     },
     "trainers": {
         "javascript": [
             "intern3303"
         ]
+    },
+    "current": {
+        "path": "default",
+        "scenario": "main#easy",
+        "topic": "1.topic1",
+        "lesson": "1.lesson1",
+        "cube": "javascript"
     }
 }
