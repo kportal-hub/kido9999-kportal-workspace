@@ -40,7 +40,7 @@
             "path": "default",
             "scenario": "main.easy",
             "topic": "1.topic1",
-            "lesson": "1.lesson1",
+            "lesson": "2.lesson2",
             "time": 0,
             "type": "python",
             "tags": [
@@ -68,9 +68,9 @@
     },
     "current": {
         "path": "default",
-        "scenario": "main#easy",
+        "scenario": "main.easy",
         "topic": "1.topic1",
-        "lesson": "1.lesson1",
+        "lesson": "2.lesson2",
         "cube": "intern3303-python"
     },
     "modified": 1584772833865
