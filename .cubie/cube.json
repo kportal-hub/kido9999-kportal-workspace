@@ -35,10 +35,32 @@
                 "passed": 3,
                 "point": 3000
             }
+        },
+        "intern3303-python": {
+            "time": 0,
+            "type": "python",
+            "tags": [
+                "python",
+                "function"
+            ],
+            "complete": 0,
+            "modified": 0,
+            "score": {
+                "status": "pending",
+                "total": 3,
+                "failed": 3,
+                "passed": 0,
+                "point": 0
+            },
+            "path": "default",
+            "scenario": "main.easy"
         }
     },
     "trainers": {
         "javascript": [
+            "intern3303"
+        ],
+        "intern3303-python": [
             "intern3303"
         ]
     },
