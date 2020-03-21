@@ -15,10 +15,10 @@
     },
     "result": {
         "javascript": {
-            "path": "default",
-            "scenario": "main.easy",
+            "path": "main.easy",
+            "scenario": "main#easy",
             "topic": "1.topic1",
-            "lesson": "1.lesson1",
+            "lesson": "2.lesson2",
             "time": 0,
             "type": "javascript",
             "tags": [
@@ -43,10 +43,10 @@
         ]
     },
     "current": {
-        "path": "default",
+        "path": "main.easy",
         "scenario": "main#easy",
         "topic": "1.topic1",
-        "lesson": "1.lesson1",
+        "lesson": "2.lesson2",
         "cube": "javascript"
     },
     "modified": 1584769662149
